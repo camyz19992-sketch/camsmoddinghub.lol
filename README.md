@@ -10,5 +10,7 @@ The Mod Hub (inspired by StripesVR and META MODDING)
 Frida-gadget 
 * https://www.python.org/
 * (COPY THIS)  pip install frida-gadget --upgrade
+* Animal Company EIC tutorial (creds to Moddingdork on TikTok)
+* https://www.tiktok.com/t/ZP83eoBMj/
 
 
