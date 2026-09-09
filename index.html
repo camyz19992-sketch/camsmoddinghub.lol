@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My VR Hub</title>
+    <style>
+        /* Dark theme styling inspired by VR Hub portals */
+        body {
+            background-color: #0d0d11;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff5555; /* Neon Red heading */
+            font-size: 2.5rem;
+            margin-top: 40px;
+            text-shadow: 0 0 10px rgba(255, 83, 83, 0.5);
+        }
+        .subtitle {
+            color: #888aa0;
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+        }
+        /* Grid layout for your tutorial and link cards */
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 10px;
+        }
+        .card {
+            background: #161622;
+            border: 2px solid #2d2d3f;
+            border-radius: 12px;
+            padding: 25px;
+            transition: 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: #ff5555;
+            box-shadow: 0 5px 15px rgba(255, 83, 83, 0.2);
+        }
+        .card h3 {
+            margin-top: 0;
+            color: #ffffff;
+            font-size: 1.4rem;
+        }
+        .card p {
+            color: #a0a0b5;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+        /* Cool neon entry and download buttons */
+        .btn {
+            display: inline-block;
+            background: #ff5555;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-weight: bold;
+            margin-top: 15px;
+            transition: 0.2s;
+        }
+        .btn:hover {
+            background: #ff3333;
+            box-shadow: 0 0 10px #ff5555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My VR Portal</h1>
+    <p class="subtitle">Welcome! Click any card below to explore my tools and downloads.</p>
+
+    <div class="container">
+        <!-- Card 1 -->
+        <div class="card">
+            <h3>Essential Tools</h3>
+            <p>Grab all the required setup configuration files and scripts needed to get started.</p>
+            <a href="YOUR_LINK_HERE" class="btn">Get Tools</a>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card">
+            <h3>Cyber Setup Guide</h3>
+            <p>Step-by-step walkthrough documentation and essential asset links for the build.</p>
+            <a href="YOUR_LINK_HERE" class="btn">View Tutorial</a>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card">
+            <h3>Menu Customization</h3>
+            <p>Explore the full layout downloads and individual tweak setups for your setup.</p>
+            <a href="YOUR_LINK_HERE" class="btn">Download Files</a>
+        </div>
+    </div>
+
+</body>
+</html>
