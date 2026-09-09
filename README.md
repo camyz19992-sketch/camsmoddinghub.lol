@@ -13,4 +13,7 @@ Frida-gadget
 * Animal Company EIC tutorial (creds to Moddingdork on TikTok)
 * https://www.tiktok.com/t/ZP83eoBMj/
 
+Gorilla Tag
 
+* https://www.nexusmods.com/games/gorillatag
+* https://monkemodmanager.com.co/
