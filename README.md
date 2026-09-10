@@ -17,3 +17,7 @@ Gorilla Tag
 
 * https://www.nexusmods.com/games/gorillatag
 * https://monkemodmanager.com.co/
+
+* BSU stuff
+
+* https://bsuo.itch.io/bsus-modding-game
