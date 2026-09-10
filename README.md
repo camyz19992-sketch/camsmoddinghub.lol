@@ -25,3 +25,4 @@ Gorilla Tag
 LemonLoader and patchers
 
 * https://github.com/LemonLoader/MelonLoader_057
+ credits to Trev and +45 others
